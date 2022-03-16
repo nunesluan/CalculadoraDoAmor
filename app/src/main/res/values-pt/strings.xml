@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Calculadora do Amor</string>
+
+
+    <string name="message_one">Digite o nome do casal</string>
+    <string name="edit_text_one">Digite o nome dele</string>
+    <string name="edit_text_two">Digite o nome dela</string>
+    <string name="button_prosseguir">PROSSEGUIR</string>
+    <string name="button_clear">LIMPAR</string>
+    <string name="message_maior_cinquenta">Vocês foram feitos um para o outro! O amor está no ar!@
+    </string>
+    <string name="message_menor_cinquenta">Talvez seja melhor repensar... Vocês não combinam tanto.
+    </string>
+    <string name="stop_song">Pausar música</string>
+
+    <string name="toast_error_message_one">Digite o nome dele</string>
+    <string name="toast_error_message_two">Digite o nome dela</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+
+
+    <string name="message_one">Enter the couple\'s name</string>
+    <string name="edit_text_one">Type his name</string>
+    <string name="edit_text_two">Type her name</string>
+    <string name="button_prosseguir">PROCEED</string>
+    <string name="button_clear">CLEAN</string>
+    <string name="message_maior_cinquenta">You were made for each other! Love is in the air!!</string>
+    <string name="message_menor_cinquenta">Maybe it\'s better to rethink. You guys don\'t match up
+    so much.</string>
+    <string name="stop_song">Stop song</string>
+    <string name="toast_error_message_one">Type his name</string>
+    <string name="toast_error_message_two">Type her name</string>
+</resources>
